@@ -9,3 +9,8 @@ Create a new branch is quick & simple.
 Creating a new branch is quick & simple.
 >>>>>>> feature1
 over
+<<<<<<< HEAD
+123456789
+=======
+123456789
+>>>>>>> newbranch
